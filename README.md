@@ -65,9 +65,7 @@ If you update your BIOS, you may need to do this again but so far Dell has been 
 
 ---
 
-## Brightness hotkeys
 
-fn+S and fn+B hotkeys are currently used to adjust brightness.
 
 ---
 
