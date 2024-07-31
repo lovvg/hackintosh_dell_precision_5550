@@ -5,7 +5,7 @@ This is an OpenCore EFI that allows you to install and boot macOS Ventura/ Sonom
 
 <b>OpenCore Version:</b> 0.8.8
 
-<b>macOS Version:</b> Ventura 13.6.7
+<b>macOS Version:</b> Ventura 13.6.6
 ---
 
 
