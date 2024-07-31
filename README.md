@@ -20,7 +20,7 @@ This is an OpenCore EFI that allows you to install and boot macOS Ventura/ Sonom
 | Audio | Realtek ALC3281 | ✅ Working |
 | WiFi | Killer 1675 (AX201) | ✅ Working |
 | Bluetooth | AX201 Wi-Fi 5 | ✅ Working |
-| SSD | Crucial P3 2TB | ✅ Working |
+| SSD | Samsung EVO 970 PLUS | ✅ Working |
 | Keyboard | - | ✅ Working |
 | Trackpad | I2C Connection | ✅ Working |
 | Webcam | Microdia RGB IR HD camera | ✅ Working |
