@@ -15,7 +15,7 @@ This is an OpenCore EFI that allows you to install and boot macOS Ventura/ Sonom
 
 | Hardware | Specification | Status |
 | --- | --- | --- |
-| CPU | Intel Core i9-10885H | ✅ Working |
+| CPU | Intel Core i7-10885H | ✅ Working |
 | RAM | DDR4 32GB | ✅ Working |
 | Audio | Realtek ALC3281 | ✅ Working |
 | WiFi | Killer 1675 (AX201) | ✅ Working |
